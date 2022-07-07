@@ -9,3 +9,6 @@ This is a Responsive Photo Grid followed through from the course of Colt Steele 
 # Built With:
 - HTML
 - CSS
+
+# Live Link:
+https://afzaa25.github.io/photo-grid/
